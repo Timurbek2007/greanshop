@@ -1,0 +1,11 @@
+main .total {
+  display: grid;
+  row-gap: 30px;
+  margin-left: 40px;
+}
+
+main .price {
+  display: grid;
+  row-gap: 30px;
+  margin-left: 40px;
+}

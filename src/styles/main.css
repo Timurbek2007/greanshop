@@ -1,0 +1,35 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+main .main_block {
+  padding-top: 50px;
+}
+
+main .main_block h4 {
+  font-size: 19px;
+  color: #3d3d3d;
+  padding-bottom: 29px;
+  margin-left: 6px;
+}
+
+main .main_block h2 {
+  font-size: 85px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 800;
+  letter-spacing: 8px;
+  padding-bottom: 24px;
+  margin-right: 140px;
+}
+
+main .main_block h2 span {
+  color: #46a358;
+}
+
+main .main_block p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+  padding-bottom: 40px;
+}

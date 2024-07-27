@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.categories {
+  margin-bottom: 20px;
+}
+
+.categories h2 {
+  margin-bottom: 10px;
+}
+
+.category-item {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 5px;
+}
+
+.price-range {
+  display: flex;
+  flex-direction: column;
+}
+
+.price-range input[type="range"] {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.price-range span {
+  margin-bottom: 5px;
+}
